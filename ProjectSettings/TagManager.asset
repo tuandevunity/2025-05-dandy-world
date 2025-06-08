@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Items
+  - Ground
+  - ObjBreak
+  - Ladder
+  - FireBall
+  - Enemy
+  - AIBot
+  - TrapTele
+  - Trap
+  - Bullet
+  - Bot
+  - Boss
+  - Weapon
+  - Action
+  - ModelGraphic
+  - Rocket
+  - Ball Respawn
+  - Trigger Ball
+  - Windy
+  - Normal Speed
+  - Death
+  - Dash
+  - Jetpack
+  - NPC
+  - Car
+  - Spawn Gun
+  - Door Exit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Player
+  - Ladder
+  - SkinShop
+  - AIBot
+  - FireBall
+  - Enemy
+  - Door
+  - Die
+  - Enemy Zone
+  - Step Button
+  - Mine
+  - Shovel
+  - Wheel
+  - Lever
+  - Button
+  - Item
+  - Air Button
+  - Ladder Button
+  - Get Ladder Button
+  - NPC
+  - Move Platform Button
+  - Respawn Platform Button
+  - Checkpoint
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
